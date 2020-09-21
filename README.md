@@ -1,4 +1,4 @@
-# Nax Pronko Online Course data
+# Max Pronko Online Course
 #
 # magento2-authorizenet
 #
