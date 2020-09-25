@@ -10,9 +10,9 @@ In order to install the module, please use modman Module Manager.
 
 For the local development use follwing command under Magento 2 root directory:
 
-´´´
+'''
 $ modman clone https://github.com/AndyP1965/magento2-authorizenet.git
-´´´
+'''
 
 ## Author
 
